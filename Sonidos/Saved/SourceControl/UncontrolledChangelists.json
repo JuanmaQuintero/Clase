@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/CricketsChirp+1B.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/CricketsChirp+1B_Cue.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4T/K5R8BXC0AQR0USU68EJXL2.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/BP_Cricket.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Ball.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/FWOWYV2PUBS0UKDQ4DEEVK.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bounce4.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bounce3.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bounce2.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bounce1.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bounce4_Cue.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/GN/MGNB78K2WMAXABJ5Z8AR0Z.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/FirstPerson/Blueprints/BP_Ball.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AT/SJ1I9KY3QGZ1W0C3LTTTUR.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Bounce/Bouncing_reverbEffect.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Widget/Notificacio_Entrada.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Widget/Notificacio_Sortida.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Widget/WD_Notification.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Widget/BP_BoxWidget.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6V/QE6JVIPSH0ORRFU91ME16H.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/MS_Reward.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Meta/SOR_KFR1_Loop_Perc_127_001a.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Meta/lvhat1_contender_127bpm.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/Meta/MS_MyLoop.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/BP_BoxAudio.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4P/MJYY6E1VW8N95T6Q887NCC.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3L/NWBM9GC2W4U5XZYBV1D9R5.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/MS_Explosion3D.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/SA_Explosion.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/MS_Fire3DLoop.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/So/4Soounds/SA_Fire3DLoop.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4K/GWQ2HMFZK928MXE8OBKDLG.uasset",
+				"C:/Users/alumne/Documents/Juanma/Clase/Clase/Sonidos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Z3/P4FAKDMVRUXYW5Q3MU22HQ.uasset"
+			]
+		}
+	]
+}
